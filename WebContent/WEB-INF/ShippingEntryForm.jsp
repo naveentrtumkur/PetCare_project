@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<textarea rows="2" cols=""> The item will be shipped to columbus Ohio</textarea>
 </body>
 </html>

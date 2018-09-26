@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<textarea rows="2" cols=""> The total payment to be made is 65$ through cash on delivery</textarea>
 </body>
 </html>
