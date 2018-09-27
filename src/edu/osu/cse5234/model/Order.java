@@ -5,13 +5,13 @@ import java.util.ArrayList;
 public class Order {
 
 	//Item[] items;
-	String[] items; // = new ArrayList<>();
+	private ArrayList<Item> items; // = new ArrayList<>();
 
-	public String[] getItems() {
+	public ArrayList<Item> getItems() {
 		return items;
 	}
 
-	public void setItems(String[] strings) {
-		this.items = strings;
+	public void setItems(ArrayList<Item> item) {
+		this.items = item;
 	}
 }

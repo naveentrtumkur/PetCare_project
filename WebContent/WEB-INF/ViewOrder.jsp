@@ -7,6 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
+<%@ page import="edu.osu.cse5234.model" %>
+<%
+Order order = new Order();
 
+%>
+<%= lang.getMessage("reset") %>
+<%= lang.getMessage("num-records", "Num records:") %>
+<%= lang.getMessage("search-for", "Search for \"{0}\"", new String[]{ "American" }) %>
 </body>
 </html>
